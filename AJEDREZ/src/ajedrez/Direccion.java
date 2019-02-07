@@ -1,0 +1,5 @@
+package ajedrez;
+
+public enum Direccion {
+	ARRIBA,ARRIBDRCHA,DERECHA,ABADRCHA,ABAJO,ABAIZQDA,IZQUIERDA,ARRIBIZQDA;
+}
